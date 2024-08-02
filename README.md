@@ -47,3 +47,6 @@ O dataset apresenta as seguintes features:
 Além da target:
 
 * y - Contratação ou não do serviço do banco pelo cliente (Sucesso da campanha)
+
+Link do Kaggle: [Projeto Final - TA 2024 |
+Kaggle](https://www.kaggle.com/competitions/projeto-final-ta-2024)
